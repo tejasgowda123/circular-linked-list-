@@ -1,6 +1,6 @@
 public class CreateList {  
 
-     
+    //Represents the node of list.  
 
     public class Node{  
 
@@ -69,6 +69,7 @@ public class CreateList {
   
 
     //Displays all the nodes in the list  
+    //display method
 
     public void display() {  
 
