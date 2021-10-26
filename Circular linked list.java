@@ -1,6 +1,6 @@
 public class CreateList {  
 
-    //Represents the node of list.  
+    //Represents the node of linked list. 
 
     public class Node{  
 
